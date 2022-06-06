@@ -1,4 +1,4 @@
-
+Mrd and Mike
 
 # simple_shell project repository
 
